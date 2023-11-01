@@ -1,5 +1,5 @@
 import './style.css'
-import {Title} from "./assets/Title.tsx";
+import {Title} from "./assets/Title.js";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import {Home} from "./pages/Home.js";
 import {Contact} from "./pages/Contact.js";

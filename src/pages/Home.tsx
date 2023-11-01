@@ -1,4 +1,4 @@
-import {Title} from "../assets/Title.tsx";
+import {Title} from "../assets/Title.js";
 import {Link, Outlet} from "react-router-dom";
 
 export function Home() {
