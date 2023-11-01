@@ -1,1 +1,15 @@
 @import "scss/title";
+
+// bases
+@import "scss/bases/_fonts", "scss/bases/_resets";
+
+// components
+@import "scss/components/_body";
+
+// layouts
+@import "scss/layouts/_dark";
+
+// utils
+@import "scss/utils/_mixins", "scss/utils/_variables";
+
+// pages
